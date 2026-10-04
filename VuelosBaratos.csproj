@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- Cambie net8.0 por la version de .NET instalada en su equipo (minimo net6.0) -->
+    <TargetFramework>net8.0</TargetFramework>
+    <RollForward>LatestMajor</RollForward>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>VuelosBaratos</RootNamespace>
+    <AssemblyName>VuelosBaratos</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="vuelos.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

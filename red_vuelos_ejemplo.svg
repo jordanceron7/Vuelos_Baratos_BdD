@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="flecha" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#7a8aa0"/></marker></defs>
+<text x="500" y="32" text-anchor="middle" font-family="Arial" font-size="16">Red de vuelos (grafo dirigido) - base de datos ficticia</text>
+<path d="M691.6 220.3 Q657.4 235.0 634.8 262.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M696.6 226.6 Q678.7 251.7 674.4 280.1" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M696.0 226.2 Q664.4 265.7 654.6 313.4" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M690.4 213.8 Q640.5 211.8 597.0 231.8" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M693.8 204.9 Q675.5 189.7 654.2 185.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M718.9 208.0 Q726.0 204.6 729.6 199.9" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M719.3 219.9 Q740.7 228.2 761.6 226.1" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M690.7 211.2 Q386.5 143.0 86.5 219.9" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M719.5 209.5 Q835.0 169.2 918.2 82.3" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M704.6 229.4 Q695.8 400.2 764.7 554.5" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M637.7 269.2 Q671.9 254.5 694.5 227.5" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M635.7 284.3 Q645.3 291.8 655.2 293.7" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M627.3 289.7 Q631.0 305.8 640.3 317.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M615.1 262.9 Q607.1 251.9 596.7 246.6" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M609.7 270.2 Q353.1 183.1 86.8 221.7" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M609.6 270.5 Q368.7 194.1 121.4 235.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M627.3 289.7 Q662.4 440.3 760.7 557.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M680.6 284.8 Q698.5 259.7 702.8 231.2" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M660.1 287.7 Q650.5 280.3 640.6 278.3" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M660.6 318.3 Q692.2 278.7 701.9 231.1" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M647.9 315.4 Q644.2 299.3 634.8 288.1" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M596.5 239.5 Q646.4 241.5 689.9 221.5" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M590.3 251.0 Q598.4 262.1 608.8 267.4" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M649.2 190.9 Q667.5 206.0 688.8 210.7" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M726.4 192.9 Q719.3 196.3 715.7 201.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M764.5 219.0 Q743.1 210.6 722.3 212.7" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M84.2 229.0 Q340.9 316.1 607.1 277.5" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M84.6 227.4 Q388.8 295.5 688.9 218.7" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M82.3 232.7 Q85.7 235.1 87.8 235.4" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M118.9 242.3 Q359.8 318.7 607.2 277.8" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M92.3 229.2 Q88.9 226.8 86.8 226.5" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M915.8 74.9 Q800.3 115.3 717.1 202.2" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M922.3 82.8 Q790.8 301.0 772.9 553.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M768.3 555.4 Q733.2 404.8 634.9 288.1" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M772.4 555.0 Q781.2 384.3 712.3 230.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<path d="M779.4 557.2 Q910.8 339.0 928.8 87.0" fill="none" stroke="#7a8aa0" stroke-width="1.2" marker-end="url(#flecha)"/>
+<circle cx="705.4" cy="214.4" r="15" fill="#1f4e79"/>
+<text x="705.4" y="214.4" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">UIO</text>
+<circle cx="623.9" cy="275.1" r="15" fill="#1f4e79"/>
+<text x="623.9" y="275.1" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">GYE</text>
+<circle cx="671.9" cy="297.0" r="15" fill="#1f4e79"/>
+<text x="671.9" y="297.0" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">CUE</text>
+<circle cx="651.2" cy="330.0" r="15" fill="#1f4e79"/>
+<text x="651.2" y="330.0" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">LOH</text>
+<circle cx="581.5" cy="238.9" r="15" fill="#1f4e79"/>
+<text x="581.5" y="238.9" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">MEC</text>
+<circle cx="637.6" cy="181.3" r="15" fill="#1f4e79"/>
+<text x="637.6" y="181.3" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">ESM</text>
+<circle cx="740.0" cy="186.5" r="15" fill="#1f4e79"/>
+<text x="740.0" y="186.5" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">TUA</text>
+<circle cx="778.5" cy="224.4" r="15" fill="#1f4e79"/>
+<text x="778.5" y="224.4" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">OCC</text>
+<circle cx="70.0" cy="224.1" r="15" fill="#1f4e79"/>
+<text x="70.0" y="224.1" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">GPS</text>
+<circle cx="104.6" cy="237.8" r="15" fill="#1f4e79"/>
+<text x="104.6" y="237.8" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">SCY</text>
+<circle cx="930.0" cy="70.0" r="15" fill="#1f4e79"/>
+<text x="930.0" y="70.0" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">BOG</text>
+<circle cx="771.7" cy="570.0" r="15" fill="#1f4e79"/>
+<text x="771.7" y="570.0" dy="3.5" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">LIM</text>
+</svg>

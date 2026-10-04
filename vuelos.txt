@@ -1,0 +1,53 @@
+# Base de datos FICTICIA de vuelos - Practica #04 (Arboles y Grafos)
+# Formato aeropuerto: A;codigo;ciudad;latitud;longitud
+# Formato vuelo:      V;origen;destino;aerolinea;precio_usd;duracion_min
+A;UIO;Quito;-0.1292;-78.3575
+A;GYE;Guayaquil;-2.1574;-79.8836
+A;CUE;Cuenca;-2.8895;-78.9844
+A;LOH;Loja;-3.9959;-79.3719
+A;MEC;Manta;-0.9461;-80.6788
+A;ESM;Esmeraldas;0.9785;-79.6266
+A;TUA;Tulcan;0.8061;-77.7081
+A;OCC;Coca;-0.4629;-76.9869
+A;GPS;Baltra (Galapagos);-0.4538;-90.2659
+A;SCY;San Cristobal (Galapagos);-0.9102;-89.6175
+A;BOG;Bogota;4.7016;-74.1469
+A;LIM;Lima;-12.0219;-77.1143
+V;UIO;GYE;AeroAndes;62;55
+V;UIO;GYE;CondorJet;48;60
+V;GYE;UIO;AeroAndes;65;55
+V;GYE;UIO;CondorJet;51;60
+V;UIO;CUE;AeroAndes;70;50
+V;CUE;UIO;AeroAndes;72;50
+V;GYE;CUE;SkyEcuador;38;35
+V;CUE;GYE;SkyEcuador;40;35
+V;UIO;LOH;AeroAndes;95;70
+V;LOH;UIO;AeroAndes;97;70
+V;GYE;LOH;SkyEcuador;55;45
+V;LOH;GYE;SkyEcuador;57;45
+V;UIO;MEC;CondorJet;52;45
+V;MEC;UIO;CondorJet;54;45
+V;GYE;MEC;SkyEcuador;35;30
+V;MEC;GYE;SkyEcuador;36;30
+V;UIO;ESM;AeroAndes;44;35
+V;ESM;UIO;AeroAndes;46;35
+V;UIO;TUA;CondorJet;58;40
+V;TUA;UIO;CondorJet;60;40
+V;UIO;OCC;AeroAndes;49;30
+V;OCC;UIO;AeroAndes;51;30
+V;GYE;GPS;AirGalapagos;185;190
+V;GPS;GYE;AirGalapagos;190;190
+V;UIO;GPS;CondorJet;235;200
+V;GPS;UIO;CondorJet;240;200
+V;GYE;SCY;AirGalapagos;180;185
+V;SCY;GYE;AirGalapagos;183;185
+V;GPS;SCY;AirGalapagos;70;40
+V;SCY;GPS;AirGalapagos;72;40
+V;UIO;BOG;CondorJet;160;95
+V;BOG;UIO;CondorJet;165;95
+V;GYE;LIM;SkyEcuador;140;120
+V;LIM;GYE;SkyEcuador;145;120
+V;UIO;LIM;AeroAndes;190;130
+V;LIM;UIO;AeroAndes;195;130
+V;BOG;LIM;CondorJet;210;175
+V;LIM;BOG;CondorJet;215;175
